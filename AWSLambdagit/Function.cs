@@ -21,7 +21,7 @@ namespace AWSLambdagit
         /// <returns></returns>
         public string FunctionHandler(string input, ILambdaContext context)
         {
-            return input?.ToUpper();
+            return input?.ToUpper() + " Chandrasen Git";
         }
     }
 }
