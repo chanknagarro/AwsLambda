@@ -47,3 +47,6 @@ Deploy function to AWS Lambda
     cd "AWSLambdagit/src/AWSLambdagit"
     dotnet lambda deploy-function
 ```
+https://github.com/aws-samples/aws-codepipeline-dotnet-lambda
+
+Code pipeline name gitpipelinechank
